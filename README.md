@@ -1,5 +1,5 @@
 # Seja Bem Vindo ao Meu Perfil! ☺
----
+
 Meu nome é Rafael, sou Agente de Service Desk, possuo conhecimento em Atendimento, sistemas operacionais, soluções SAAS, IAAS e redes. 
 Sou formado em Redes de Computadores pela Universidade Paulista e Certificado em Analista de TI pelo Google. 
 
@@ -12,5 +12,5 @@ Email:foxbain@gmail.com
 
 
 ## Me acompanhe nas outras Redes
----
+
 [Linkedin](https://www.linkedin.com/in/rafael-felipe-oliveira-santos-0b956027/) [Twitter](https://x.com/Foxbain)
